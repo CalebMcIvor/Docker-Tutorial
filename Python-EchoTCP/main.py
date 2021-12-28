@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#main socket app for docker server
+
 import socket
 
 HOST = ''  # Standard loopback interface address (localhost)
